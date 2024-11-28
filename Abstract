@@ -1,0 +1,7 @@
+Abstract
+The Smart Irrigation System is an Arduino-based solution designed to automate the process of soil moisture monitoring and irrigation control. 
+This project leverages an Arduino board, a soil moisture sensor, and a motor pump to ensure optimal soil moisture levels are maintained. 
+An additional Processing-based graphical interface allows for easy control and monitoring of the pump status. 
+The system automatically activates the pump when soil moisture falls below a certain threshold and deactivates it when the moisture level is sufficient. 
+Additionally, users can manually enable or disable the pump through a graphical interface. 
+This project aims to optimize water usage in irrigation, promoting efficient and sustainable agricultural practices.
